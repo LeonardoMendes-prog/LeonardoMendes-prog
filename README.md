@@ -14,7 +14,7 @@ Me chamo Leonardo Mendes de Queiroz Montarroyos, tenho 23 anos e sou natural de 
             src="https://custom-icon-badges.demolab.com/github/stars/LeonardoMendes-prog?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/LeonardoMendes?tab=followers">
+    <a href="https://github.com/LeonardoMendes-prog?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
